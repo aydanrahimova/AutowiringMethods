@@ -8,7 +8,7 @@
 ### Run
 
 ```shell script
-$ java -jar change.my.name.jar
+$ java -jar SpringBootAutowiringMethods.jar
 ```
 
 ### Tech stack
